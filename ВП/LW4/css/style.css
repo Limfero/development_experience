@@ -1,0 +1,26 @@
+.title
+{
+   font: 500 15px/1 Fredoka medium;
+   color: #90a2da;
+}
+
+.main
+{
+    font: 300 10px/1.2 OpenSans normal;
+}
+
+.background
+{
+    color: #d9ead3;
+}
+
+.text
+{
+    font: 300 10px/1.2 TimesNewRoman normal;
+}
+
+.information
+{
+    border: 3px solid #000;
+    padding: 30px;
+}
